@@ -2,7 +2,7 @@ Home Lab EG - Netzwerk
 ###############################
 :date: 2018-11-11 17:30
 :slug: home-lab-6
-:tags: Home Lab, Rack, Decke, Switch, Netzwerk
+:tags: Home, Labor, Rack, Decke, Switch, Netzwerk
 :keywords: 
 
 Vor einigen Wochen habe ich die Verkabelung bei uns im der Wohnung etwas aufgeraeumt.
