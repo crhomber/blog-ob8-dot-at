@@ -11,7 +11,7 @@ Seit ca 2 Monaten habe ich jetzt allerdings recht starte Rythmusstoerungen, sog.
 
 Gefunden wurde dieses Problem durch den Schrittmacher und weil ich bei der Untersuchung auch im "flattern" war.
 
-Aus dem Bekanntenkreis weiss ich, dass auch andere Mitmenschen (vor allem Maenner) von dem Problem betroffen sind und ich moechte an dieser Stelle nur einen kleinen Apell loswerden: Leute, lasst das anschauen und meint nicht, dass das von selber wieder weg geht, denn das tut es nicht - es handelt sich hierbei (zumindest bei mir und in vielen Faellen) um ein mechanisches Problem im Herz.
+Aus dem Bekanntenkreis weiss ich, dass auch andere Mitmenschen (vor allem Maenner) von dem Problem betroffen sind und ich moechte an dieser Stelle nur einen kleinen Appell loswerden: Leute, lasst das anschauen und meint nicht, dass das von selber wieder weg geht, denn das tut es nicht - es handelt sich hierbei (zumindest bei mir und in vielen Faellen) um ein mechanisches Problem im Herz.
 
 Da ich die Schrittmacher-OP recht gut weggesteckt habe bin ich jetzt zwar nervoes, jedoch habe ich keine Angst vor dem Eingriff.
 
