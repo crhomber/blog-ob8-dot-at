@@ -10,5 +10,5 @@ die Finanzscheffin von Huawei ist in Vancouver `verhaftet worden <https://www.th
 
 Klar, wegen eines Verdachts der Verletzung von Handelssanktionen der USA gegen den Iran.
 
-Huawei ist eine "developed and mande in china" Firma.
+Huawei ist eine "developed and made in china" Firma.
 
