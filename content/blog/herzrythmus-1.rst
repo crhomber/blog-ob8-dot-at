@@ -5,7 +5,7 @@ Herzryhthmus gestoert - hm...
 :tags: Herzschrittmacher, Gesundheit, Herzrythmus, LKH Feldkirch
 :lang: de
 
-Seit ich den `Herzschrittmacher <../tag/herzschrittmacher.html>`_ habe hat sich mein Wohlbefinden merklich verbessert, ich wurde sogar sportlich Aktiv und hatte keinerlei Beschwerden mehr.
+Seit ich den `Herzschrittmacher <../tag/herzschrittmacher.html>`_ habe hat sich mein Wohlbefinden merklich verbessert, ich wurde sogar sportlich aktiv und hatte keinerlei Beschwerden mehr.
 
 Seit ca 2 Monaten habe ich jetzt allerdings recht starte Rythmusstoerungen, sog. Vorhofflimmern und deshalb werde ich naechste Woche intensiv untersucht.
 
