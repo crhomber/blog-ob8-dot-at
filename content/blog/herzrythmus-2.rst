@@ -24,7 +24,7 @@ Ich war erstaunt, wie viele Kabel an mich angeschlossen wurden (sind im Video un
 
 Der Eigentliche Eingriff wurde von eine `Profi aus Friedrichshafen <https://www.medizin-campus-bodensee.de/leistungen-angebote/kliniken/elektrophysiologie/leistungsspektrum/>`_ durchgefuehrt, welcher mich auch vor dem Eingriff nochmal bestens aufgeklaert hat.
 
-Der Eingriff dauerte ca. Stunden, danach musste ich 6h liegen Bleiben (Bettruhe, wegen der Wunde in der Leiste) und ich habe sofort gemerkt, dass das Problem behoben ist (zumindest vorerst).
+Der Eingriff dauerte ca. 3 Stunden, danach musste ich 6h liegen Bleiben (Bettruhe, wegen der Wunde in der Leiste) und ich habe sofort gemerkt, dass das Problem behoben ist (zumindest vorerst).
 
 Heute, also am Tag nach dem Eingriff, durfte ich - nachdem nochmals alles mittels Ultraschall kontrolliert wurde - das Krankenhaus verlassen und muss mich jetzt noch ca 1 Woche schonen (also nicht allzuviel bewegen).
 
