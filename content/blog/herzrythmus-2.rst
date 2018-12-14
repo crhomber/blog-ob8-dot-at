@@ -6,7 +6,8 @@ Herzryhthmus gestoert - Update
 :lang: de
 
 Soda - ich bin wieder daheim,
-gestern wurde bei mir mittels `Herzkatheter <https://de.wikipedia.org/wiki/Herzkatheteruntersuchung>`_ eine `Elektrophysiologische Untersuchung <https://de.wikipedia.org/wiki/Elektrophysiologische_Untersuchung>`_ mit anschliessender `Ablation <https://de.wikipedia.org/wiki/Ablation_(Medizin)`_ durchgefuehrt.
+gestern wurde bei mir mittels `Herzkatheter <https://de.wikipedia.org/wiki/Herzkatheteruntersuchung>`_ eine `Elektrophysiologische Untersuchung <https://de.wikipedia.org/wiki/Elektrophysiologische_Untersuchung>`_ mit anschliessender `Ablation <https://de.wikipedia.org/wiki/Ablation_(Medizin)>`_ durchgefuehrt.
+
 
 Das klingt jetzt sehr spektakulaer und bedrohlich, jedoch habe ich die gesamte Zeit das Gefuehl gehabt im LKH Feldkrich in guten Haenden zu sein.
 
