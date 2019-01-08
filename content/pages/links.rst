@@ -10,9 +10,6 @@ IT:
 
 * `Salt Minion 64-Bit Windows <https://repo.saltstack.com/windows/Salt-Minion-2018.3.3-Py2-AMD64-Setup.exe>`_
 
-Fahrrad:
-
-* `Bullitt Specs <http://www.larryvsharry.com/technical-info/>`_
 
 Misc:
 
